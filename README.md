@@ -1,8 +1,8 @@
 # Kaggle Challenge Notebooks
 
-Dieses Repository enthält Jupyter Notebooks zur Bearbeitung von Kaggle-Wettbewerben. Ziel ist es, verschiedene Machine-Learning-Modelle auf reale Daten anzuwenden und ihre Leistungsfähigkeit zu vergleichen.
+This repository contains Jupyter Notebooks for solving Kaggle challenges. The goal is to apply and compare different machine learning models on real-world datasets.
 
-## Inhalt
+## Contents
 
-- `houseprices.ipynb`: Lösung zur Challenge **House Prices – Advanced Regression Techniques**. Verwendetes Modell: **Random Forest Regressor**.
-- `titanic.ipynb`: Lösung zur Challenge **Titanic – Machine Learning from Disaster**. Verwendetes Modell: **XGBoost Classifier**.
+- `houseprices.ipynb`: Solution to the **House Prices – Advanced Regression Techniques** challenge using a **Random Forest Regressor**.
+- `titanic.ipynb`: Solution to the **Titanic – Machine Learning from Disaster** challenge using an **XGBoost Classifier**.
